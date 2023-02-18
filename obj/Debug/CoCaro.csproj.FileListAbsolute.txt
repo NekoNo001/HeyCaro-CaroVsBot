@@ -1,0 +1,140 @@
+D:\CT246\CoCaro\CoCaro\obj\Debug\CoCaro.csproj.AssemblyReference.cache
+D:\CT246\CoCaro\CoCaro\obj\Debug\CoCaro.from1.resources
+D:\CT246\CoCaro\CoCaro\obj\Debug\CoCaro.Properties.Resources.resources
+D:\CT246\CoCaro\CoCaro\obj\Debug\CoCaro.csproj.GenerateResource.cache
+D:\CT246\CoCaro\CoCaro\obj\Debug\CoCaro.csproj.CoreCompileInputs.cache
+D:\CT246\CoCaro\CoCaro\bin\Debug\CoCaro.exe.config
+D:\CT246\CoCaro\CoCaro\bin\Debug\CoCaro.exe
+D:\CT246\CoCaro\CoCaro\bin\Debug\CoCaro.pdb
+D:\CT246\CoCaro\CoCaro\obj\Debug\CoCaro.exe
+D:\CT246\CoCaro\CoCaro\obj\Debug\CoCaro.pdb
+D:\CT246\CoCaro\CoCaro\obj\Debug\CoCaro.BanDiem.resources
+D:\CT246\B1906478_NguyenNhatHo\CoCaro\obj\Debug\CoCaro.csproj.AssemblyReference.cache
+D:\CT246\B1906478_NguyenNhatHo\CoCaro\obj\Debug\CoCaro.BanDiem.resources
+D:\CT246\B1906478_NguyenNhatHo\CoCaro\obj\Debug\CoCaro.from1.resources
+D:\CT246\B1906478_NguyenNhatHo\CoCaro\obj\Debug\CoCaro.Form2.resources
+D:\CT246\B1906478_NguyenNhatHo\CoCaro\obj\Debug\CoCaro.Properties.Resources.resources
+D:\CT246\B1906478_NguyenNhatHo\CoCaro\obj\Debug\CoCaro.csproj.GenerateResource.cache
+D:\CT246\B1906478_NguyenNhatHo\CoCaro\obj\Debug\CoCaro.csproj.CoreCompileInputs.cache
+D:\CT246\B1906478_NguyenNhatHo\CoCaro\obj\Debug\CoCaro.exe
+D:\CT246\B1906478_NguyenNhatHo\CoCaro\obj\Debug\CoCaro.pdb
+D:\CT246\B1906478_NguyenNhatHo\CoCaro\bin\Debug\CoCaro.exe.config
+D:\CT246\B1906478_NguyenNhatHo\CoCaro\bin\Debug\CoCaro.exe
+D:\CT246\B1906478_NguyenNhatHo\CoCaro\bin\Debug\CoCaro.pdb
+D:\CT246\B1906478_NguyenNhatHo\CoCaro\obj\Debug\CoCaro.Credits.resources
+D:\Dev\CT246-devCoCaro\B1906478_NguyenNhatHo\CoCaro\bin\Debug\CoCaro.exe.config
+D:\Dev\CT246-devCoCaro\B1906478_NguyenNhatHo\CoCaro\bin\Debug\CoCaro.exe
+D:\Dev\CT246-devCoCaro\B1906478_NguyenNhatHo\CoCaro\bin\Debug\CoCaro.pdb
+D:\Dev\CT246-devCoCaro\B1906478_NguyenNhatHo\CoCaro\obj\Debug\CoCaro.csproj.AssemblyReference.cache
+D:\Dev\CT246-devCoCaro\B1906478_NguyenNhatHo\CoCaro\obj\Debug\CoCaro.csproj.SuggestedBindingRedirects.cache
+D:\Dev\CT246-devCoCaro\B1906478_NguyenNhatHo\CoCaro\obj\Debug\CoCaro.BanDiem.resources
+D:\Dev\CT246-devCoCaro\B1906478_NguyenNhatHo\CoCaro\obj\Debug\CoCaro.from1.resources
+D:\Dev\CT246-devCoCaro\B1906478_NguyenNhatHo\CoCaro\obj\Debug\CoCaro.Form2.resources
+D:\Dev\CT246-devCoCaro\B1906478_NguyenNhatHo\CoCaro\obj\Debug\CoCaro.Credits.resources
+D:\Dev\CT246-devCoCaro\B1906478_NguyenNhatHo\CoCaro\obj\Debug\CoCaro.Properties.Resources.resources
+D:\Dev\CT246-devCoCaro\B1906478_NguyenNhatHo\CoCaro\obj\Debug\CoCaro.csproj.GenerateResource.cache
+D:\Dev\CT246-devCoCaro\B1906478_NguyenNhatHo\CoCaro\obj\Debug\CoCaro.csproj.CoreCompileInputs.cache
+D:\Dev\CT246-devCoCaro\B1906478_NguyenNhatHo\CoCaro\obj\Debug\CoCaro.exe
+D:\Dev\CT246-devCoCaro\B1906478_NguyenNhatHo\CoCaro\obj\Debug\CoCaro.pdb
+D:\Dev\NLCSN\B1906478_NguyenNhatHo\CoCaro\obj\Debug\CoCaro.csproj.AssemblyReference.cache
+D:\Dev\NLCSN\B1906478_NguyenNhatHo\CoCaro\obj\Debug\CoCaro.csproj.SuggestedBindingRedirects.cache
+D:\Dev\NLCSN\B1906478_NguyenNhatHo\CoCaro\obj\Debug\CoCaro.from1.resources
+D:\Dev\NLCSN\B1906478_NguyenNhatHo\CoCaro\obj\Debug\CoCaro.Form2.resources
+D:\Dev\NLCSN\B1906478_NguyenNhatHo\CoCaro\obj\Debug\CoCaro.Properties.Resources.resources
+D:\Dev\NLCSN\B1906478_NguyenNhatHo\CoCaro\obj\Debug\CoCaro.csproj.GenerateResource.cache
+D:\Dev\NLCSN\B1906478_NguyenNhatHo\CoCaro\obj\Debug\CoCaro.csproj.CoreCompileInputs.cache
+D:\Dev\NLCSN\B1906478_NguyenNhatHo\CoCaro\obj\Debug\CoCaro.exe
+D:\Dev\NLCSN\B1906478_NguyenNhatHo\CoCaro\obj\Debug\CoCaro.pdb
+D:\Dev\NLCSN\B1906478_NguyenNhatHo\CoCaro\bin\Debug\CoCaro.exe.config
+D:\Dev\NLCSN\B1906478_NguyenNhatHo\CoCaro\bin\Debug\CoCaro.exe
+D:\Dev\NLCSN\B1906478_NguyenNhatHo\CoCaro\bin\Debug\CoCaro.pdb
+D:\Dev\NLCSN\B1906478_NguyenNhatHo\CoCaro\obj\Debug\CoCaro.Score.resources
+D:\Dev\NLCSN\B1906478_NguyenNhatHo\CoCaro\obj\Debug\CoCaro.Form3.resources
+D:\CTU\NLCSNKTPM\Project\VER 1\B1906478_NguyenNhatHo\CoCaro\bin\Debug\CoCaro.exe.config
+D:\CTU\NLCSNKTPM\Project\VER 1\B1906478_NguyenNhatHo\CoCaro\bin\Debug\CoCaro.exe
+D:\CTU\NLCSNKTPM\Project\VER 1\B1906478_NguyenNhatHo\CoCaro\bin\Debug\CoCaro.pdb
+D:\CTU\NLCSNKTPM\Project\VER 1\B1906478_NguyenNhatHo\CoCaro\obj\Debug\CoCaro.csproj.AssemblyReference.cache
+D:\CTU\NLCSNKTPM\Project\VER 1\B1906478_NguyenNhatHo\CoCaro\obj\Debug\CoCaro.csproj.SuggestedBindingRedirects.cache
+D:\CTU\NLCSNKTPM\Project\VER 1\B1906478_NguyenNhatHo\CoCaro\obj\Debug\CoCaro.from1.resources
+D:\CTU\NLCSNKTPM\Project\VER 1\B1906478_NguyenNhatHo\CoCaro\obj\Debug\CoCaro.Form2.resources
+D:\CTU\NLCSNKTPM\Project\VER 1\B1906478_NguyenNhatHo\CoCaro\obj\Debug\CoCaro.Form3.resources
+D:\CTU\NLCSNKTPM\Project\VER 1\B1906478_NguyenNhatHo\CoCaro\obj\Debug\CoCaro.Score.resources
+D:\CTU\NLCSNKTPM\Project\VER 1\B1906478_NguyenNhatHo\CoCaro\obj\Debug\CoCaro.Properties.Resources.resources
+D:\CTU\NLCSNKTPM\Project\VER 1\B1906478_NguyenNhatHo\CoCaro\obj\Debug\CoCaro.csproj.GenerateResource.cache
+D:\CTU\NLCSNKTPM\Project\VER 1\B1906478_NguyenNhatHo\CoCaro\obj\Debug\CoCaro.csproj.CoreCompileInputs.cache
+D:\CTU\NLCSNKTPM\Project\VER 1\B1906478_NguyenNhatHo\CoCaro\obj\Debug\CoCaro.exe
+D:\CTU\NLCSNKTPM\Project\VER 1\B1906478_NguyenNhatHo\CoCaro\obj\Debug\CoCaro.pdb
+D:\CTU\NLCSNKTPM\Project\Ver 2\B1906478_NguyenNhatHo\CoCaro\bin\Debug\CoCaro.exe.config
+D:\CTU\NLCSNKTPM\Project\Ver 2\B1906478_NguyenNhatHo\CoCaro\bin\Debug\CoCaro.exe
+D:\CTU\NLCSNKTPM\Project\Ver 2\B1906478_NguyenNhatHo\CoCaro\bin\Debug\CoCaro.pdb
+D:\CTU\NLCSNKTPM\Project\Ver 2\B1906478_NguyenNhatHo\CoCaro\obj\Debug\CoCaro.csproj.AssemblyReference.cache
+D:\CTU\NLCSNKTPM\Project\Ver 2\B1906478_NguyenNhatHo\CoCaro\obj\Debug\CoCaro.csproj.SuggestedBindingRedirects.cache
+D:\CTU\NLCSNKTPM\Project\Ver 2\B1906478_NguyenNhatHo\CoCaro\obj\Debug\CoCaro.from1.resources
+D:\CTU\NLCSNKTPM\Project\Ver 2\B1906478_NguyenNhatHo\CoCaro\obj\Debug\CoCaro.Form2.resources
+D:\CTU\NLCSNKTPM\Project\Ver 2\B1906478_NguyenNhatHo\CoCaro\obj\Debug\CoCaro.Form3.resources
+D:\CTU\NLCSNKTPM\Project\Ver 2\B1906478_NguyenNhatHo\CoCaro\obj\Debug\CoCaro.Score.resources
+D:\CTU\NLCSNKTPM\Project\Ver 2\B1906478_NguyenNhatHo\CoCaro\obj\Debug\CoCaro.Properties.Resources.resources
+D:\CTU\NLCSNKTPM\Project\Ver 2\B1906478_NguyenNhatHo\CoCaro\obj\Debug\CoCaro.csproj.GenerateResource.cache
+D:\CTU\NLCSNKTPM\Project\Ver 2\B1906478_NguyenNhatHo\CoCaro\obj\Debug\CoCaro.csproj.CoreCompileInputs.cache
+D:\CTU\NLCSNKTPM\Project\Ver 2\B1906478_NguyenNhatHo\CoCaro\obj\Debug\CoCaro.exe
+D:\CTU\NLCSNKTPM\Project\Ver 2\B1906478_NguyenNhatHo\CoCaro\obj\Debug\CoCaro.pdb
+D:\CTU\NLCSNKTPM\Project\Ver 2.0\B1906478_NguyenNhatHo\CoCaro\bin\Debug\CoCaro.exe.config
+D:\CTU\NLCSNKTPM\Project\Ver 2.0\B1906478_NguyenNhatHo\CoCaro\bin\Debug\CoCaro.exe
+D:\CTU\NLCSNKTPM\Project\Ver 2.0\B1906478_NguyenNhatHo\CoCaro\bin\Debug\CoCaro.pdb
+D:\CTU\NLCSNKTPM\Project\Ver 2.0\B1906478_NguyenNhatHo\CoCaro\obj\Debug\CoCaro.csproj.AssemblyReference.cache
+D:\CTU\NLCSNKTPM\Project\Ver 2.0\B1906478_NguyenNhatHo\CoCaro\obj\Debug\CoCaro.csproj.SuggestedBindingRedirects.cache
+D:\CTU\NLCSNKTPM\Project\Ver 2.0\B1906478_NguyenNhatHo\CoCaro\obj\Debug\CoCaro.from1.resources
+D:\CTU\NLCSNKTPM\Project\Ver 2.0\B1906478_NguyenNhatHo\CoCaro\obj\Debug\CoCaro.Form2.resources
+D:\CTU\NLCSNKTPM\Project\Ver 2.0\B1906478_NguyenNhatHo\CoCaro\obj\Debug\CoCaro.Form3.resources
+D:\CTU\NLCSNKTPM\Project\Ver 2.0\B1906478_NguyenNhatHo\CoCaro\obj\Debug\CoCaro.Score.resources
+D:\CTU\NLCSNKTPM\Project\Ver 2.0\B1906478_NguyenNhatHo\CoCaro\obj\Debug\CoCaro.Properties.Resources.resources
+D:\CTU\NLCSNKTPM\Project\Ver 2.0\B1906478_NguyenNhatHo\CoCaro\obj\Debug\CoCaro.csproj.GenerateResource.cache
+D:\CTU\NLCSNKTPM\Project\Ver 2.0\B1906478_NguyenNhatHo\CoCaro\obj\Debug\CoCaro.csproj.CoreCompileInputs.cache
+D:\CTU\NLCSNKTPM\Project\Ver 2.0\B1906478_NguyenNhatHo\CoCaro\obj\Debug\CoCaro.exe
+D:\CTU\NLCSNKTPM\Project\Ver 2.0\B1906478_NguyenNhatHo\CoCaro\obj\Debug\CoCaro.pdb
+D:\CTU\NLCSNKTPM\Project\Ver 2.0\B1906478_NguyenNhatHo\CoCaro\obj\Debug\CoCaro.Mode.resources
+D:\CTU\NLCSNKTPM\Project\Ver 2.0 - Copy\B1906478_NguyenNhatHo\CoCaro\bin\Debug\CoCaro.exe.config
+D:\CTU\NLCSNKTPM\Project\Ver 2.0 - Copy\B1906478_NguyenNhatHo\CoCaro\bin\Debug\CoCaro.exe
+D:\CTU\NLCSNKTPM\Project\Ver 2.0 - Copy\B1906478_NguyenNhatHo\CoCaro\bin\Debug\CoCaro.pdb
+D:\CTU\NLCSNKTPM\Project\Ver 2.0 - Copy\B1906478_NguyenNhatHo\CoCaro\obj\Debug\CoCaro.csproj.AssemblyReference.cache
+D:\CTU\NLCSNKTPM\Project\Ver 2.0 - Copy\B1906478_NguyenNhatHo\CoCaro\obj\Debug\CoCaro.csproj.SuggestedBindingRedirects.cache
+D:\CTU\NLCSNKTPM\Project\Ver 2.0 - Copy\B1906478_NguyenNhatHo\CoCaro\obj\Debug\CoCaro.Mode.resources
+D:\CTU\NLCSNKTPM\Project\Ver 2.0 - Copy\B1906478_NguyenNhatHo\CoCaro\obj\Debug\CoCaro.from1.resources
+D:\CTU\NLCSNKTPM\Project\Ver 2.0 - Copy\B1906478_NguyenNhatHo\CoCaro\obj\Debug\CoCaro.Form2.resources
+D:\CTU\NLCSNKTPM\Project\Ver 2.0 - Copy\B1906478_NguyenNhatHo\CoCaro\obj\Debug\CoCaro.Form3.resources
+D:\CTU\NLCSNKTPM\Project\Ver 2.0 - Copy\B1906478_NguyenNhatHo\CoCaro\obj\Debug\CoCaro.Score.resources
+D:\CTU\NLCSNKTPM\Project\Ver 2.0 - Copy\B1906478_NguyenNhatHo\CoCaro\obj\Debug\CoCaro.Properties.Resources.resources
+D:\CTU\NLCSNKTPM\Project\Ver 2.0 - Copy\B1906478_NguyenNhatHo\CoCaro\obj\Debug\CoCaro.csproj.GenerateResource.cache
+D:\CTU\NLCSNKTPM\Project\Ver 2.0 - Copy\B1906478_NguyenNhatHo\CoCaro\obj\Debug\CoCaro.csproj.CoreCompileInputs.cache
+D:\CTU\NLCSNKTPM\Project\Ver 2.0 - Copy\B1906478_NguyenNhatHo\CoCaro\obj\Debug\CoCaro.exe
+D:\CTU\NLCSNKTPM\Project\Ver 2.0 - Copy\B1906478_NguyenNhatHo\CoCaro\obj\Debug\CoCaro.pdb
+D:\CTU\NLCSNKTPM\Project\Ver 2.0 - Final\B1906478_NguyenNhatHo\CoCaro\bin\Debug\CoCaro.exe.config
+D:\CTU\NLCSNKTPM\Project\Ver 2.0 - Final\B1906478_NguyenNhatHo\CoCaro\bin\Debug\CoCaro.exe
+D:\CTU\NLCSNKTPM\Project\Ver 2.0 - Final\B1906478_NguyenNhatHo\CoCaro\bin\Debug\CoCaro.pdb
+D:\CTU\NLCSNKTPM\Project\Ver 2.0 - Final\B1906478_NguyenNhatHo\CoCaro\obj\Debug\CoCaro.csproj.AssemblyReference.cache
+D:\CTU\NLCSNKTPM\Project\Ver 2.0 - Final\B1906478_NguyenNhatHo\CoCaro\obj\Debug\CoCaro.csproj.SuggestedBindingRedirects.cache
+D:\CTU\NLCSNKTPM\Project\Ver 2.0 - Final\B1906478_NguyenNhatHo\CoCaro\obj\Debug\CoCaro.Mode.resources
+D:\CTU\NLCSNKTPM\Project\Ver 2.0 - Final\B1906478_NguyenNhatHo\CoCaro\obj\Debug\CoCaro.from1.resources
+D:\CTU\NLCSNKTPM\Project\Ver 2.0 - Final\B1906478_NguyenNhatHo\CoCaro\obj\Debug\CoCaro.Form2.resources
+D:\CTU\NLCSNKTPM\Project\Ver 2.0 - Final\B1906478_NguyenNhatHo\CoCaro\obj\Debug\CoCaro.Form3.resources
+D:\CTU\NLCSNKTPM\Project\Ver 2.0 - Final\B1906478_NguyenNhatHo\CoCaro\obj\Debug\CoCaro.Score.resources
+D:\CTU\NLCSNKTPM\Project\Ver 2.0 - Final\B1906478_NguyenNhatHo\CoCaro\obj\Debug\CoCaro.Properties.Resources.resources
+D:\CTU\NLCSNKTPM\Project\Ver 2.0 - Final\B1906478_NguyenNhatHo\CoCaro\obj\Debug\CoCaro.csproj.GenerateResource.cache
+D:\CTU\NLCSNKTPM\Project\Ver 2.0 - Final\B1906478_NguyenNhatHo\CoCaro\obj\Debug\CoCaro.csproj.CoreCompileInputs.cache
+D:\CTU\NLCSNKTPM\Project\Ver 2.0 - Final\B1906478_NguyenNhatHo\CoCaro\obj\Debug\CoCaro.exe
+D:\CTU\NLCSNKTPM\Project\Ver 2.0 - Final\B1906478_NguyenNhatHo\CoCaro\obj\Debug\CoCaro.pdb
+D:\CTU\NLCSNKTPM\Project\Ver 2.0 - Final\CoCaroNLCSNKTPM_B1906478_NguyenNhatHo\CoCaro\bin\Debug\CoCaro.exe.config
+D:\CTU\NLCSNKTPM\Project\Ver 2.0 - Final\CoCaroNLCSNKTPM_B1906478_NguyenNhatHo\CoCaro\bin\Debug\CoCaro.exe
+D:\CTU\NLCSNKTPM\Project\Ver 2.0 - Final\CoCaroNLCSNKTPM_B1906478_NguyenNhatHo\CoCaro\bin\Debug\CoCaro.pdb
+D:\CTU\NLCSNKTPM\Project\Ver 2.0 - Final\CoCaroNLCSNKTPM_B1906478_NguyenNhatHo\CoCaro\obj\Debug\CoCaro.csproj.AssemblyReference.cache
+D:\CTU\NLCSNKTPM\Project\Ver 2.0 - Final\CoCaroNLCSNKTPM_B1906478_NguyenNhatHo\CoCaro\obj\Debug\CoCaro.csproj.SuggestedBindingRedirects.cache
+D:\CTU\NLCSNKTPM\Project\Ver 2.0 - Final\CoCaroNLCSNKTPM_B1906478_NguyenNhatHo\CoCaro\obj\Debug\CoCaro.Mode.resources
+D:\CTU\NLCSNKTPM\Project\Ver 2.0 - Final\CoCaroNLCSNKTPM_B1906478_NguyenNhatHo\CoCaro\obj\Debug\CoCaro.from1.resources
+D:\CTU\NLCSNKTPM\Project\Ver 2.0 - Final\CoCaroNLCSNKTPM_B1906478_NguyenNhatHo\CoCaro\obj\Debug\CoCaro.Form2.resources
+D:\CTU\NLCSNKTPM\Project\Ver 2.0 - Final\CoCaroNLCSNKTPM_B1906478_NguyenNhatHo\CoCaro\obj\Debug\CoCaro.Form3.resources
+D:\CTU\NLCSNKTPM\Project\Ver 2.0 - Final\CoCaroNLCSNKTPM_B1906478_NguyenNhatHo\CoCaro\obj\Debug\CoCaro.Score.resources
+D:\CTU\NLCSNKTPM\Project\Ver 2.0 - Final\CoCaroNLCSNKTPM_B1906478_NguyenNhatHo\CoCaro\obj\Debug\CoCaro.Properties.Resources.resources
+D:\CTU\NLCSNKTPM\Project\Ver 2.0 - Final\CoCaroNLCSNKTPM_B1906478_NguyenNhatHo\CoCaro\obj\Debug\CoCaro.csproj.GenerateResource.cache
+D:\CTU\NLCSNKTPM\Project\Ver 2.0 - Final\CoCaroNLCSNKTPM_B1906478_NguyenNhatHo\CoCaro\obj\Debug\CoCaro.csproj.CoreCompileInputs.cache
+D:\CTU\NLCSNKTPM\Project\Ver 2.0 - Final\CoCaroNLCSNKTPM_B1906478_NguyenNhatHo\CoCaro\obj\Debug\CoCaro.exe
+D:\CTU\NLCSNKTPM\Project\Ver 2.0 - Final\CoCaroNLCSNKTPM_B1906478_NguyenNhatHo\CoCaro\obj\Debug\CoCaro.pdb
